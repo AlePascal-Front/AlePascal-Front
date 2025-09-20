@@ -5,4 +5,8 @@
 - 👯 I’m looking to collaborate on web projects.
 - ⚡ Fun fact: I enjoy helping others whenever I can. Be it in programming field or in daily life. I'm also Christian.
 
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=AlePascal-Front&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> 
+</p>
+
 
