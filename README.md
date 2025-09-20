@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=27&pause=1000&color=32C6BD&width=1000&lines=%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%C2%B0%E2%9C%A9+%F0%9F%92%BB%E2%80%A7%E2%82%8A%CB%9A%F0%9F%96%87%EF%B8%8F%E2%9C%A9++Welcome!+I'm+Ephi++%E2%82%8A%CB%9A%F0%9F%8E%A7%E2%8A%B9%E2%99%A1%F0%9F%92%BE%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9;%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%C2%B0%E2%9C%A9+%F0%9F%92%BB%E2%80%A7%E2%82%8A%CB%9A%F0%9F%96%87%EF%B8%8F%E2%9C%A9++Bienvenid%40!+Soy+Ephi++%E2%82%8A%CB%9A%F0%9F%8E%A7%E2%8A%B9%E2%99%A1%F0%9F%92%BE%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9)](https://git.io/typing-svg)
 
 <!--
 **AlePascal-Front/AlePascal-Front** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
