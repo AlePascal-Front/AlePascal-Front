@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Roboto+Mono&weight=500&size=25&duration=3000&pause=1000&color=F7F034&center=true&width=435&lines=Hello!+welcome+to+my+profile;lines=¡Hola!+bienvenido+a+mi+perfil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Roboto+Mono&weight=500&size=25&duration=3000&pause=1000&color=F7F034&center=true&width=435&lines=Hello!+welcome+to+my+profile;lines=%A1Hola!+bienvenido+a+mi+perfil)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on improving my leetcode stats and a basic CRUD made using HTML, JS and CSS.
 - 🌱 I’m currently learning python, JavaScript and keras.
