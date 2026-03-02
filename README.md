@@ -15,8 +15,6 @@
   <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" />
 </p>
 
-<p align="left"> 
-  ![Stats](./profile/stats.svg)
-</p>
+![Stats](profile/stats.svg)
 
 
